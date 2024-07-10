@@ -47,7 +47,7 @@ The project employs a comprehensive multivariate linear regression approach. Key
 
 ## Repository Structure
 
-- `reports/`: Final report and presentation files.
+- `reports/`: Final report.
 - `README.md`: This file, providing an overview of the project and repository.
 
 ## Team Members
